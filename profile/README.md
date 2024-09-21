@@ -1,6 +1,6 @@
 <p align="center">
   <picture>
-    <img alt="scooper labs logo" src="https://github.com/user-attachments/assets/25d626a5-f5bf-42e8-b25b-827173bf0b46" width="auto" height="60">
+    <img alt="scooper labs logo" src="https://res.cloudinary.com/dk7yfady4/image/upload/v1726926699/tpnytcs1qv479jjl2wfb.svg" width="auto" height="60">
   </picture>
 </p>
 
