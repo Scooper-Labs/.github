@@ -9,7 +9,7 @@
 <p>
 
 <div align="center">
-  <a href="https://scooperlabs.xyz/"><b>Learn More</b></a>  | 
+  <a href="https://scooperlabs.com/"><b>Learn More</b></a>  | 
   <a href="#comingsoon"><b>Docs</b></a> 
 </div>
 
